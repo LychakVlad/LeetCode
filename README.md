@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/LychakVlad/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/LychakVlad/LeetCode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/LychakVlad/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/LychakVlad/LeetCode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/LychakVlad/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
