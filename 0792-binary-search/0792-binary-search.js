@@ -5,7 +5,7 @@
  */
 var search = function(nums, target) {
     let lo = 0
-    let hi = nums.length
+    let hi = nums.length - 1
 
     do {
         let mid = Math.floor((lo + hi) / 2)
