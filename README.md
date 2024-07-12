@@ -32,9 +32,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/LychakVlad/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/LychakVlad/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/LychakVlad/LeetCode/tree/master/0792-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/LychakVlad/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
